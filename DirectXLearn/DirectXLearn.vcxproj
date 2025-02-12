@@ -24,6 +24,7 @@
     <ProjectGuid>{d992d3ed-3d35-4e1e-938d-eb7c477f6155}</ProjectGuid>
     <RootNamespace>DirectXLearn</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>DirectXVectors</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
